@@ -1,5 +1,9 @@
 # The Ultimate vimrc
 
+This vim config is base on the  config of the github/amix/vimrc.
+
+**********************************************************************
+
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
 
 There are two versions:

@@ -1,3 +1,6 @@
+" For S conflict bettwen yankstack and surroud
+call yankstack#setup()
+
 " For the basic config
 if has("gui_running")
    let s:uname = system("uname")
